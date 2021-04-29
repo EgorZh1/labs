@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Laba6\Laba6\bin\Debug\Laba6.exe.config
+C:\Users\Asus\source\repos\Laba6\Laba6\bin\Debug\Laba6.exe
+C:\Users\Asus\source\repos\Laba6\Laba6\bin\Debug\Laba6.pdb
+C:\Users\Asus\source\repos\Laba6\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Laba6\Laba6\obj\Debug\Laba6.exe
+C:\Users\Asus\source\repos\Laba6\Laba6\obj\Debug\Laba6.pdb
